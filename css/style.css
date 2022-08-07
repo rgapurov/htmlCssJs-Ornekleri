@@ -1,0 +1,103 @@
+@media screen and (max-width:992px) {
+    .bYazi{
+        background-color: #003865; 
+        height: 85px; width: 120px;
+        font-size: 28px;
+        padding: 18px 0px;
+        position: absolute;
+        margin-left: 0;
+    }
+}
+@media screen and (min-width:992px) {
+    .bYazi{
+        background-color: #003865; 
+        height: 85px; width: 180px;
+        padding: 18px 0px;
+        font-size: 40px;
+        position: absolute;
+
+    }
+
+}
+.menu{
+    background-color: #003865;
+    border-radius: 4px;
+    color: aliceblue;
+    text-decoration-line: none;
+    padding: 2px 5px;
+    margin: 4px 3px;
+    height: 30px;
+    width: auto;
+
+}
+.head{
+    background-color: #00ADB5; 
+    height: 75px
+}
+.yukari{
+    background-color: white;
+    margin: 90px 0px 0px 0px;
+    height:200px;
+    width: 100%;
+    border: 2px solid black;
+    
+}
+.left{
+    text-align: left;
+}
+.middle{
+    margin-top: 80px;
+    margin-left: 0;
+    padding-left: 0;
+}
+.rBorder{
+    border: 3px solid turquoise;
+}
+.ozellik{
+    background-color: #003865;
+    margin-left: 10px;
+    padding: 10px 20px;
+    width: 170px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    left: 0;
+}
+.ozellik1{
+    background-color: #003865;
+    margin-left: 18px;
+    padding: 10px 20px;
+    width: 170px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    left: 0;
+}
+.pos-rel{
+    position: relative;
+}
+.resim-o1{
+    margin-top: 50px;
+}
+.tnr{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 3px;
+}
+.ozet-border{
+    border: 3px solid #00ADB5;
+    margin: 15px 0px;
+    padding: 0px 10px 20px 10px;
+}
+.ozet-border1{
+    background-color:  #00ADB5;
+    margin: 15px 0px;
+    padding: 5px 10px 20px 10px;
+}
+.bg-turq{
+    background-color: #00ADB5;
+}
